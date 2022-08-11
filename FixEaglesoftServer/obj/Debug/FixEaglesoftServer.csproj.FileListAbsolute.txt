@@ -1,0 +1,10 @@
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\bin\Debug\FixEaglesoftServer.exe.config
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\bin\Debug\FixEaglesoftServer.exe
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\bin\Debug\FixEaglesoftServer.pdb
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\obj\Debug\FixEaglesoftServer.csprojResolveAssemblyReference.cache
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\obj\Debug\FixEaglesoftServer.Form1.resources
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\obj\Debug\FixEaglesoftServer.Properties.Resources.resources
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\obj\Debug\FixEaglesoftServer.csproj.GenerateResource.Cache
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\obj\Debug\FixEaglesoftServer.exe
+C:\Users\Justin\source\repos\FixEaglesoftServer\FixEaglesoftServer\obj\Debug\FixEaglesoftServer.pdb
